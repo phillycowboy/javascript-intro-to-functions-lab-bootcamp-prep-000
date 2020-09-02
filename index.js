@@ -10,5 +10,5 @@ function whisper (string)
 
 function logShout(string)
 {
-  conosole.log( string. (toUpperCase());
+  conosole.log( string.toUpperCase());
 }
