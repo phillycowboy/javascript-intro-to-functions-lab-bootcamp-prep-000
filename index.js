@@ -20,7 +20,7 @@ function logWhisper(string)
 }
 
 
-
+var string = ("I love you, Grandma");
 function sayHiToGrandma(string){
   return string.toLowerCase();
 }
